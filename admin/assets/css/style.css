@@ -1,0 +1,22 @@
+.main-content{
+    margin-top: 50px;
+}
+.modify {
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 7px #aaa;
+}
+.single-post{
+    margin-bottom: 25px;
+}
+.single-post img{
+    width: 100%;
+}
+.pagination{
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    
+
+
+}
